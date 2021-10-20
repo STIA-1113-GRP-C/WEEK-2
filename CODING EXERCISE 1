@@ -1,0 +1,19 @@
+package campusLife;
+
+public class onedayincampus {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("My life start in UUM at 6:30 a.m everyday");
+        System.out.println("The first thing I do is wash up and do subuh pray");
+        System.out.println("I taking breakfirst at 7:30 a.m");
+        System.out.println("Then I walk around my hostel for about 1 hour");
+        System.out.println("After that I going to take rest at my room");
+        System.out.println("At 10:30am I prepare for my class");
+        System.out.println("At afternoon I taking break from class and go to lunch and pray");
+        System.out.println("At the evening I going out from my room to relax myself after done the class");
+        System.out.println("I start do the programming at 9 pm until atleast 11pm");
+        System.out.println("After I finish do the programming I ready to go sleep usually at 12am so that my life at UUM for 1 day");
+	}
+
+}
